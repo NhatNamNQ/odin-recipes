@@ -1,5 +1,5 @@
 # odin-recipes
-Iteration 1: initial structure
-Iteration 2: recipe page
-Iteration 3: recipe page content
-Iteration 4: add more recipes
+This project is part of the Odin curriculum. It is a basic recipe website demonstrating the use of structure content and links page
+
+## Project Description
+The Odin Recipe project is a simple website containing three recipes: **Pizza**, **Spaghetti**, **Candy Cane Cocoa**.
